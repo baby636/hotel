@@ -60,7 +60,7 @@
     "please-upgrade-node": "^3.0.2",
     "pug": "^2.0.0-rc.4",
     "respawn": "^2.4.1",
-    "selfsigned": "^1.10.2",
+    "selfsigned": "^1.10.13",
     "server-ready": "^0.3.1",
     "sudo-block": "^2.0.0",
     "tildify": "^1.1.2",
