@@ -111,7 +111,7 @@
     "stylelint": "^8.4.0",
     "stylelint-config-recess-order": "^1.2.3",
     "stylelint-config-standard": "^18.1.0",
-    "supertest": "^3.0.0",
+    "supertest": "^7.0.0",
     "tempy": "^0.2.0",
     "ts-loader": "^3.5.0",
     "tslint": "^5.9.1",
