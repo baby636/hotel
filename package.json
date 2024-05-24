@@ -48,7 +48,7 @@
     "after-all": "^2.0.2",
     "ansi2html": "0.0.1",
     "chalk": "^2.3.1",
-    "chokidar": "^2.0.2",
+    "chokidar": "^3.0.0",
     "connect-sse": "^1.2.0",
     "exit-hook": "^1.1.1",
     "express": "^4.16.2",
